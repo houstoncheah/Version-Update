@@ -1,5 +1,5 @@
 {
-  "version": "3.1.1",
-  "downloadUrl": "https://keyence-my.sharepoint.com/:u:/g/personal/houston_cheah_km_keyence_com_my/IQBZ62wrHDidSa-L-Mtq6lucARF63-786me2YGSkLybGK9M?e=Eg3oo8&download=1",
-  "releaseNotes": "Version 3.1.1 update with bug fixes and improvements."
+  "version": "3.2.0",
+  "downloadUrl": "https://keyence-my.sharepoint.com/:u:/g/personal/houston_cheah_km_keyence_com_my/IQBZ62wrHDidSa-L-Mtq6lucAQBRg67lhk3nj9SOMOiTqqU?e=fkWFHi&download=1",
+  "releaseNotes": "Version 3.2.0 add custom work, manual adjust the 3d object, add code side, now only top side, make all works can adjust size, reader also add face, face add top, bottom, left right, front and rear, when the reader pitch is 90, rotation skew is not reflect to the 3d view"
 }
